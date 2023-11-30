@@ -43,5 +43,5 @@ jobs:
     - name: Run tests
       run: |
         cd decide
-        python manage.py test 
+        ./manage.py test 
 
